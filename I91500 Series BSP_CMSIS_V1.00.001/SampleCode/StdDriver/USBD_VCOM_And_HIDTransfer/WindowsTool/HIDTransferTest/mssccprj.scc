@@ -1,0 +1,5 @@
+SCC = This is a Source Code Control file
+
+[HIDTransferTest.sln]
+SCC_Aux_Path = "\\nthcrdvss01\VSS\ARMProject"
+SCC_Project_Name = "$/I91500_BSP/SampleCode/StdDriver/USBD_VCOM_And_HIDTransfer/WindowsTool/HIDTransferTest", XKJXDAAA
